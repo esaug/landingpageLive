@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2709f433.css",
+    "main.js": "/static/js/main.7f460135.js",
+    "static/js/787.66b477fd.chunk.js": "/static/js/787.66b477fd.chunk.js",
+    "static/media/country_image_Japan.jpeg": "/static/media/country_image_Japan.6bef3b5642679174d640.jpeg",
+    "static/media/german2.jpeg": "/static/media/german2.3559db921f821fdf979c.jpeg",
+    "static/media/puntacancun.jpeg": "/static/media/puntacancun.9230a6102835c085c72e.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2709f433.css.map": "/static/css/main.2709f433.css.map",
+    "main.7f460135.js.map": "/static/js/main.7f460135.js.map",
+    "787.66b477fd.chunk.js.map": "/static/js/787.66b477fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2709f433.css",
+    "static/js/main.7f460135.js"
+  ]
+}
